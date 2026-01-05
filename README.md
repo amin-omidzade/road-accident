@@ -25,10 +25,7 @@
 
   <p align="center">
     This comprehensive dataset provides detailed information on road accidents reported over multiple years. The dataset encompasses various attributes related to accident status, vehicle and casualty references, demographics, and severity of casualties. It includes essential factors such as pedestrian details, casualty types, road maintenance worker involvement, and the Index of Multiple Deprivation (IMD) decile for casualties' home areas.
-    <br />
-    <a href="https://github.com/amin-fx"><strong>Explore the docs »</strong></a>
-    <br />
-
+    
 [//]: # (    <br />)
 
 [//]: # (    <a href="https://github.com/github_username/repo_name">View Demo</a>)
@@ -144,3 +141,4 @@ Mohammadamin Omidzadehnik - [amin.omidzade@gmail.com](amin.omidzade@gmail.com)
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
